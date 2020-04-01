@@ -4245,3 +4245,930 @@ Total triangle count: 4386
 Writing c:\users\gorro\desktop\de_celo\de_celo.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\gorro\desktop\de_celo\de_celo.bsp', but we don't own that location. Allowing...
 1 minute, 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 63
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70406 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 446 texinfos to 325
+Reduced 23 texdatas to 18 (688 bytes to 514)
+Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 431 portalclusters
+1335 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 950 visible clusters (0.00%)
+Total clusters visible: 107227
+Average clusters visible: 248
+Building PAS...
+Average clusters audible: 425
+visdatasize:48826  compressed from 48272
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1702 faces
+798207 square feet [114941936.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1702 patches before subdivision
+zero area child patch
+33060 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+.Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 64
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5100.....6...7...8...9....101.Processing areas.....done (0)
+2Building Faces...done (0)
+.FixTjuncs...
+.PruneNodes...
+WriteBSP...
+.done (0)
+3..writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt....4..Building visibility clusters...
+.5AutoVisClustering (threshold=-1) matched 0 leafs.
+..done (1)
+.6Finding displacement neighbors...
+.Finding lightmap sample positions...
+..Displacement Alpha : 0...1.....2...3...4....5...6...7...8...9...10
+Building Physics collision data...
+8...9.done (1) (73566 bytes)
+..10transfers 2643572, max 453
+transfer lists:  20.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(168366, 162018, 140981)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(48280, 44976, 40111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16507, 14834, 13708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6337, 5508, 5185)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2467, 2074, 1981)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1002, 815, 787)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(406, 319, 311)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(170, 129, 127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(70, 52, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(30, 21, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9Placing detail props : .0.....110..2...3...4..	Bounce #14 added RGB(1, 1, 1)
+.5...6.0..7.....8..1....9..2....0.3
+...4..Water found with no water_lod_control entity, creating a default one.
+.5...6...7Compacting texture/material tables...
+...8.Reduced 447 texinfos to 327
+..9...10Reduced 23 texdatas to 18 (688 bytes to 514)
+	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+Done<0.0322 sec>
+0MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+...11 seconds elapsed
+1...2...3...4...5
+
+
+6 threads
+..reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+.reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 449 portalclusters
+61430 numportals
+..0...1...2...3....4...5...6...7...8..7.9...10..0....18......29......103FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0.....1....2..4.3...4....5....6....75...8....9...10..Writing leaf ambient...done
+6Ready to Finish
+
+..Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+.7------------       ---------------  ---------------  -------- 
+.models                  31/1024         1488/49152    ( 3.0%) 
+brushes                159/8192         1908/98304    ( 1.9%) 
+brushsides            1101/81920        8808/655360   ( 1.3%) 
+planes                1282/65536       25640/1310720  ( 2.0%) 
+..vertexes              2685/65536       32220/786432   ( 4.1%) 
+8.nodes                 1148/65536       36736/2097152  ( 1.8%) 
+.texinfos               325/12288       23400/884736   ( 2.6%) 
+texdata                 18/4096          576/131072   ( 0.4%) 
+.9dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+.disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+.faces                 1702/65536       95312/3670016  ( 2.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              752/65536       42112/3670016  ( 1.1%) 
+facebrushes             12/0              24/0        ( 0.0%) 
+facebrushlists        1702/0            6808/0        ( 0.0%) 
+leaves                1180/65536       37760/2097152  ( 1.8%) 
+leaffaces             2026/65536        4052/131072   ( 3.1%) 
+leafbrushes            672/65536        1344/131072   ( 1.0%) 
+.areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11196/512000      44784/2048000  ( 2.2%) 
+edges                 5952/256000      23808/1024000  ( 2.3%) 
+LDR worldlights         14/8192         1400/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            162/32768        1620/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2457/65536        4914/131072   ( 3.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1684356/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       48826/16777216 ( 0.3%) 
+entdata               [variable]       25518/393216   ( 6.5%) 
+LDR ambient table     1180/65536        4720/262144   ( 1.8%) 
+HDR ambient table     1180/65536        4720/262144   ( 1.8%) 
+LDR leaf ambient      4426/65536      123928/1835008  ( 6.8%) 
+HDR leaf ambient      1180/65536       33040/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5796     ( 0.0%) 
+pakfile               [variable]      150509/0        ( 0.0%) 
+physics               [variable]       70406/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4737
+Writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+1 minute, 49 seconds elapsed
+10Optimized: 925 visible clusters (0.00%)
+Total clusters visible: 116440
+Average clusters visible: 259
+Building PAS...
+Average clusters audible: 443
+visdatasize:53329  compressed from 57472
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+1 minute, 24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1757 faces
+798262 square feet [114949744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1757 patches before subdivision
+zero area child patch
+33085 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 65
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (73566 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 447 texinfos to 327
+Reduced 23 texdatas to 18 (688 bytes to 514)
+Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 449 portalclusters
+1430 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3166 visible clusters (0.00%)
+Total clusters visible: 184799
+Average clusters visible: 411
+Building PAS...
+Average clusters audible: 449
+visdatasize:54630  compressed from 57472
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1757 faces
+798262 square feet [114949744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1757 patches before subdivision
+zero area child patch
+33085 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2672331, max 467
+transfer lists:  20.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(172058, 165551, 144197)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49536, 46138, 41162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16979, 15255, 14097)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6537, 5680, 5343)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2544, 2138, 2040)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1038, 845, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(419, 330, 321)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(177, 135, 132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(73, 54, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31, 22, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0348 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                170/8192         2040/98304    ( 2.1%) 
+brushsides            1240/81920        9920/655360   ( 1.5%) 
+planes                1364/65536       27280/1310720  ( 2.1%) 
+vertexes              2745/65536       32940/786432   ( 4.2%) 
+nodes                 1179/65536       37728/2097152  ( 1.8%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 18/4096          576/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1757/65536       98392/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              797/65536       44632/3670016  ( 1.2%) 
+facebrushes             16/0              32/0        ( 0.0%) 
+facebrushlists        1757/0            7028/0        ( 0.0%) 
+leaves                1211/65536       38752/2097152  ( 1.8%) 
+leaffaces             2073/65536        4146/131072   ( 3.2%) 
+leafbrushes            686/65536        1372/131072   ( 1.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11596/512000      46384/2048000  ( 2.3%) 
+edges                 6176/256000      24704/1024000  ( 2.4%) 
+LDR worldlights         14/8192         1400/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            160/32768        1600/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2442/65536        4884/131072   ( 3.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1695248/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       54630/16777216 ( 0.3%) 
+entdata               [variable]       25544/393216   ( 6.5%) 
+LDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+HDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+LDR leaf ambient      4570/65536      127960/1835008  ( 7.0%) 
+HDR leaf ambient      1211/65536       33908/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5796     ( 0.0%) 
+pakfile               [variable]      150509/0        ( 0.0%) 
+physics               [variable]       73566/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4863
+Writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 67
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73950 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 447 texinfos to 327
+Reduced 23 texdatas to 18 (688 bytes to 514)
+Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 447 portalclusters
+1411 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3173 visible clusters (0.00%)
+Total clusters visible: 182934
+Average clusters visible: 409
+Building PAS...
+Average clusters audible: 447
+visdatasize:53538  compressed from 50064
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1764 faces
+798294 square feet [114954368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1764 patches before subdivision
+zero area child patch
+33106 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2675631, max 466
+transfer lists:  20.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(172108, 165601, 144255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49477, 46084, 41119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16949, 15230, 14076)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6521, 5667, 5332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2536, 2133, 2035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1035, 842, 813)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(418, 329, 320)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(176, 134, 132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 53, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31, 22, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0238 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                170/8192         2040/98304    ( 2.1%) 
+brushsides            1241/81920        9928/655360   ( 1.5%) 
+planes                1542/65536       30840/1310720  ( 2.4%) 
+vertexes              2759/65536       33108/786432   ( 4.2%) 
+nodes                 1179/65536       37728/2097152  ( 1.8%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 18/4096          576/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1764/65536       98784/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              795/65536       44520/3670016  ( 1.2%) 
+facebrushes             24/0              48/0        ( 0.0%) 
+facebrushlists        1764/0            7056/0        ( 0.0%) 
+leaves                1211/65536       38752/2097152  ( 1.8%) 
+leaffaces             2083/65536        4166/131072   ( 3.2%) 
+leafbrushes            696/65536        1392/131072   ( 1.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11630/512000      46520/2048000  ( 2.3%) 
+edges                 6194/256000      24776/1024000  ( 2.4%) 
+LDR worldlights         14/8192         1400/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            174/32768        1740/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2619/65536        5238/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1697336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       53538/16777216 ( 0.3%) 
+entdata               [variable]       25539/393216   ( 6.5%) 
+LDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+HDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+LDR leaf ambient      4512/65536      126336/1835008  ( 6.9%) 
+HDR leaf ambient      1211/65536       33908/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5796     ( 0.0%) 
+pakfile               [variable]      150509/0        ( 0.0%) 
+physics               [variable]       73950/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4891
+Writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 68
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (73950 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 447 texinfos to 327
+Reduced 23 texdatas to 18 (688 bytes to 514)
+Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 447 portalclusters
+1411 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3173 visible clusters (0.00%)
+Total clusters visible: 182934
+Average clusters visible: 409
+Building PAS...
+Average clusters audible: 447
+visdatasize:53538  compressed from 50064
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1764 faces
+798294 square feet [114954368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1764 patches before subdivision
+zero area child patch
+33106 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2675631, max 466
+transfer lists:  20.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(172108, 165601, 144255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49477, 46084, 41119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16949, 15230, 14076)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6521, 5667, 5332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2536, 2133, 2035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1035, 842, 813)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(418, 329, 320)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(176, 134, 132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 53, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31, 22, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0250 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                170/8192         2040/98304    ( 2.1%) 
+brushsides            1241/81920        9928/655360   ( 1.5%) 
+planes                1542/65536       30840/1310720  ( 2.4%) 
+vertexes              2759/65536       33108/786432   ( 4.2%) 
+nodes                 1179/65536       37728/2097152  ( 1.8%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 18/4096          576/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1764/65536       98784/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              795/65536       44520/3670016  ( 1.2%) 
+facebrushes             24/0              48/0        ( 0.0%) 
+facebrushlists        1764/0            7056/0        ( 0.0%) 
+leaves                1211/65536       38752/2097152  ( 1.8%) 
+leaffaces             2083/65536        4166/131072   ( 3.2%) 
+leafbrushes            696/65536        1392/131072   ( 1.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11630/512000      46520/2048000  ( 2.3%) 
+edges                 6194/256000      24776/1024000  ( 2.4%) 
+LDR worldlights         14/8192         1400/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            174/32768        1740/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2619/65536        5238/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1697336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       53538/16777216 ( 0.3%) 
+entdata               [variable]       25540/393216   ( 6.5%) 
+LDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+HDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+LDR leaf ambient      4512/65536      126336/1835008  ( 6.9%) 
+HDR leaf ambient      1211/65536       33908/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5796     ( 0.0%) 
+pakfile               [variable]      150509/0        ( 0.0%) 
+physics               [variable]       73950/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4891
+Writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 69
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (73950 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 447 texinfos to 327
+Reduced 23 texdatas to 18 (688 bytes to 514)
+Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 447 portalclusters
+1411 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3173 visible clusters (0.00%)
+Total clusters visible: 182934
+Average clusters visible: 409
+Building PAS...
+Average clusters audible: 447
+visdatasize:53538  compressed from 50064
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1764 faces
+798294 square feet [114954368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1764 patches before subdivision
+zero area child patch
+33106 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2675631, max 466
+transfer lists:  20.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(172108, 165601, 144255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49477, 46084, 41119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16949, 15230, 14076)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6521, 5667, 5332)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2536, 2133, 2035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1035, 842, 813)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(418, 329, 320)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(176, 134, 132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 53, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31, 22, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0165 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                170/8192         2040/98304    ( 2.1%) 
+brushsides            1241/81920        9928/655360   ( 1.5%) 
+planes                1542/65536       30840/1310720  ( 2.4%) 
+vertexes              2759/65536       33108/786432   ( 4.2%) 
+nodes                 1179/65536       37728/2097152  ( 1.8%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 18/4096          576/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1764/65536       98784/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              795/65536       44520/3670016  ( 1.2%) 
+facebrushes             24/0              48/0        ( 0.0%) 
+facebrushlists        1764/0            7056/0        ( 0.0%) 
+leaves                1211/65536       38752/2097152  ( 1.8%) 
+leaffaces             2083/65536        4166/131072   ( 3.2%) 
+leafbrushes            696/65536        1392/131072   ( 1.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11630/512000      46520/2048000  ( 2.3%) 
+edges                 6194/256000      24776/1024000  ( 2.4%) 
+LDR worldlights         14/8192         1400/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            174/32768        1740/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2619/65536        5238/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1697336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       53538/16777216 ( 0.3%) 
+entdata               [variable]       25536/393216   ( 6.5%) 
+LDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+HDR ambient table     1211/65536        4844/262144   ( 1.8%) 
+LDR leaf ambient      4512/65536      126336/1835008  ( 6.9%) 
+HDR leaf ambient      1211/65536       33908/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5796     ( 0.0%) 
+pakfile               [variable]      150509/0        ( 0.0%) 
+physics               [variable]       73950/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4891
+Writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.vmf
+Map revision 72
+Patching WVT material: maps/de_celo/de_cbble/grass_alt/blendgrassdirt_wvt_patch
+Patching WVT material: maps/de_celo/de_train/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/de_celo/concrete/blend_sidewalk_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (74622 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 447 texinfos to 327
+Reduced 23 texdatas to 18 (688 bytes to 514)
+Writing C:\Users\ferxp\Documents\GitHub\De-Celo\Raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+reading c:\users\ferxp\documents\github\de-celo\raw\de_celo.prt
+ 447 portalclusters
+1405 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 888 visible clusters (0.00%)
+Total clusters visible: 114759
+Average clusters visible: 256
+Building PAS...
+Average clusters audible: 441
+visdatasize:52352  compressed from 50064
+writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+46 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+1766 faces
+798276 square feet [114951760.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1766 patches before subdivision
+zero area child patch
+32972 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2661546, max 455
+transfer lists:  20.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(168655, 162296, 141238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(48200, 44902, 40035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16449, 14781, 13661)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6278, 5457, 5136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2443, 2055, 1962)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(988, 804, 776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(400, 315, 307)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(167, 127, 125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(69, 51, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(29, 21, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(12, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0231 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                170/8192         2040/98304    ( 2.1%) 
+brushsides            1249/81920        9992/655360   ( 1.5%) 
+planes                1702/65536       34040/1310720  ( 2.6%) 
+vertexes              2764/65536       33168/786432   ( 4.2%) 
+nodes                 1184/65536       37888/2097152  ( 1.8%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 18/4096          576/131072   ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1766/65536       98896/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              795/65536       44520/3670016  ( 1.2%) 
+facebrushes             26/0              52/0        ( 0.0%) 
+facebrushlists        1766/0            7064/0        ( 0.0%) 
+leaves                1216/65536       38912/2097152  ( 1.9%) 
+leaffaces             2089/65536        4178/131072   ( 3.2%) 
+leafbrushes            700/65536        1400/131072   ( 1.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            11647/512000      46588/2048000  ( 2.3%) 
+edges                 6203/256000      24812/1024000  ( 2.4%) 
+LDR worldlights         14/8192         1400/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            172/32768        1720/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2589/65536        5178/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1697024/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       52352/16777216 ( 0.3%) 
+entdata               [variable]       25536/393216   ( 6.5%) 
+LDR ambient table     1216/65536        4864/262144   ( 1.9%) 
+HDR ambient table     1216/65536        4864/262144   ( 1.9%) 
+LDR leaf ambient      4513/65536      126364/1835008  ( 6.9%) 
+HDR leaf ambient      1216/65536       34048/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5796     ( 0.0%) 
+pakfile               [variable]      150509/0        ( 0.0%) 
+physics               [variable]       74622/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7c
+
+Total triangle count: 4904
+Writing c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ferxp\documents\github\de-celo\raw\de_celo.bsp', but we don't own that location. Allowing...
+44 seconds elapsed
